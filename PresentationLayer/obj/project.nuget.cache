@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pxq9mFhphwbSJIsmjR+iAkzLwYR2wSkxLKxlvaXc+VvbtEJXPDjIZpW15duINeKOVAKgbydBfJAXX4voHzHFow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melvi\\source\\projekt\\PresentationLayer\\PresentationLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\system.servicemodel.syndication.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
