@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HMH0UEKnZCsPRJHSq+7/LHR8N55gH2HMZCU18ijxP6Qv/acbv9vxSRP0yx0Z8nrpYIYrLVRhovD3YJOFQMKcjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melvi\\source\\projekt\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\system.servicemodel.syndication.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "isF/PueS/hqbSxfB3HGPngjAR2KrJruyM4HBLOHbCo3js67bBtT8FE/GJiqabYcoI0foiAN+8Dprk82CF8adRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melvi\\source\\projekt\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\system.servicemodel.syndication.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
